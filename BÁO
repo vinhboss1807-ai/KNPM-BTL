@@ -1,0 +1,26 @@
+# ĐỀ TÀI: HỆ THỐNG QUẢN LÝ [TÊN ĐỀ TÀI CỦA BẠN]
+
+Báo cáo bài tập lớn môn: **[Tên môn học]** - Giảng viên hướng dẫn: **[Tên giảng viên]**
+
+## 1. Thành viên thực hiện
+| STT | Họ và tên | Mã sinh viên | Công việc phụ trách |
+| :---: | :--- | :---: | :--- |
+| 1 | Nguyễn Văn A | 123456 | Phân tích yêu cầu, Vẽ Use Case, Code Backend |
+| 2 | Trần Thị B | 123457 | Thiết kế CSDL, Giao diện, Viết báo cáo SRS |
+
+## 2. Tài liệu báo cáo đính kèm
+* 📄 [Báo cáo đặc tả yêu cầu phần mềm (File PDF)](./bao-cao/Bao-cao-SRS.pdf)
+* 📝 [Báo cáo bản Word (File DOCX)](./bao-cao/Bao-cao-SRS.docx)
+* 📊 [Slide thuyết trình (File PPTX)](./bao-cao/Slide-thuyet-trinh.pptx)
+
+## 3. Phân tích & Thiết kế hệ thống
+### 3.1. Sơ đồ Use Case tổng quát
+![Sơ đồ Use Case](./images/use-case-tong-quat.png)
+
+### 3.2. Sơ đồ lớp (Class Diagram)
+![Sơ đồ lớp](./images/class-diagram.png)
+
+## 4. Công nghệ sử dụng & Hướng dẫn chạy chương trình
+* **Ngôn ngữ & Framework:** Python (Flask / PyQt5)
+* **Cơ sở dữ liệu:** SQLite / SQL Server
+* **Công cụ mô hình hóa:** StarUML, Draw.io
